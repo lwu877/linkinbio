@@ -1,8 +1,8 @@
 {
   "html": {
     "lang": "en",
-    "title": "Marcos Carrasco",
-    "description": "Follow me on all my socials",
+    "title": "Lex Wu",
+    "description": "A musician that does a few too many side quests",
     "favicon": "/favicon.svg"
   },
   "background": {
@@ -10,86 +10,100 @@
     "secondColor": "#B38AC2"
   },
   "header": {
-    "image": "/profile.webp",
+    "image": "/favicon.svg",
     "alt": "The owner of this website.",
-    "title": "Marcos Carrasco",
-    "description": "Full Stack Developer",
+    "title": "Lex Wu",
+    "description": "A musician that does a few too many side quests",
     "textColor": "white"
   },
   "socials": [
     {
       "network": "GitHub",
-      "username": "marcosklender",
-      "url": "https://github.com/marcosklender"
+      "username": "lwu877",
+      "url": "https://github.com/lwu877"
     },
     {
-      "network": "LinkedIn",
-      "username": "marcosklender",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
+      "network": "TikTok",
+      "username": "lwu877",
+      "url": "https://tiktok.com/@lwu877"
+    },
+    {
+      "network": "Twitch",
+      "username": "lwu877",
+      "url": "https://twitch.tv/lwu877"
     },
     {
       "network": "Instagram",
-      "username": "marcosklender",
-      "url": "https://www.instagram.com/marcosklender"
+      "username": "lwu877",
+      "url": "https://www.instagram.com/lwu877"
     },
     {
       "network": "Mail",
-      "username": "marcosklender",
-      "url": "mailto:marcosklender@gmail.com"
+      "username": "lex",
+      "url": "mailto:lex@lexwu.com"
     },
     {
       "network": "Link",
-      "username": "JSONLinks",
-      "url": "https://jsonlinks.netlify.app/templates"
+      "username": "Website",
+      "url": "https://lexwu.com"
     }
   ],
   "featured": [
     {
-      "network": "GitHub",
-      "url": "https://github.com/MarcosKlender/AstroLinkHub",
-      "title": "Use this template and star it (:",
+      "network": "Pod",
+      "url": "https://open.spotify.com/show/1Xmaek9r2UmdnwTZZRCFVG?si=b5baa713957a4c81",
+      "title": "Here's a Minute - a new podcast with Vian Vera, streaming wherever",
       "textColor": "#FFF",
-      "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
+      "backgroundImage": "https://curtainlorimer.com/_astro/ham-radio.B3yZnW2y_Z1caIG2.webp",
+      "backgroundColor": null,
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Music",
+      "url": "https://lexwu.com",
+      "title": "And a full soundtrack - coming soon",
+      "textColor": "#FFF",
+      "backgroundImage": "https://lexwu.com/assets/music/hamradio-album.jpg",
       "backgroundColor": null,
       "borderRadius": ".75rem"
     }
   ],
   "buttons": [
     {
-      "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US",
-      "title": "Let's connect on LinkedIn",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "Instagram",
-      "url": "https://www.instagram.com/marcosklender",
-      "title": "Follow me on Instagram",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "Mail",
-      "url": "mailto:marcosklender@gmail.com",
-      "title": "Contact me anytime",
+      "network": "Music",
+      "url": "https://push.fm/fl/lexwu",
+      "title": "I've got music - and you might like it?",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
       "network": "Link",
-      "url": "https://jsonlinks.netlify.app/templates",
-      "title": "See more templates",
+      "url": "https://lexwu.com/",
+      "title": "I also just redid my website",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Unsplash",
+      "url": "https://unsplash.com/@lwu877",
+      "title": "I take photos sometimes",
+      "textColor": "#FFF",
+      "backgroundColor": "#000",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Blog",
+      "url": "https://blog.lexwu.com",
+      "title": "A blogger who doesn't blog that often",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     }
   ],
   "footer": {
-    "copyright": "Made with 🍺 by MarcosKlender 🇪🇨",
-    "url": "https://marcosklender.com"
+    "copyright": "© 2025 Lex Wu",
+    "url": "https://lexwu.com"
   }
 }
