@@ -17,7 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-Open source links page, customizable via JSON. Made with Astro 4.
+Open source links page, customizable via JSON.
 
 </div>
 
