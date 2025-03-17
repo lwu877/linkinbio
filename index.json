@@ -54,16 +54,16 @@
       "url": "https://open.spotify.com/show/1Xmaek9r2UmdnwTZZRCFVG?si=b5baa713957a4c81",
       "title": "Here's a Minute - a new podcast with Vian Vera, streaming wherever",
       "textColor": "#FFF",
-      "backgroundImage": "https://curtainlorimer.com/_astro/ham-radio.B3yZnW2y_Z1caIG2.webp",
+      "backgroundImage": "/minute.png",
       "backgroundColor": null,
       "borderRadius": ".75rem"
     },
     {
       "network": "Music",
-      "url": "https://lexwu.com",
-      "title": "And a full soundtrack - coming soon",
+      "url": "https://push.fm/fl/nvb09mtk",
+      "title": "And the full soundtrack, out now!",
       "textColor": "#FFF",
-      "backgroundImage": "https://lexwu.com/assets/music/hamradio-album.jpg",
+      "backgroundImage": "/hamradio-album.jpg",
       "backgroundColor": null,
       "borderRadius": ".75rem"
     }
