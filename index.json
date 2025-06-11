@@ -3,14 +3,14 @@
     "lang": "en",
     "title": "Lex Wu",
     "description": "A musician that does a few too many side quests",
-    "favicon": "/favicon.svg"
+    "favicon": "/lwu-slant.png"
   },
   "background": {
-    "firstColor": "#454281",
-    "secondColor": "#B38AC2"
+    "firstColor": "#432371",
+    "secondColor": "#faae7b"
   },
   "header": {
-    "image": "/favicon.svg",
+    "image": "/lwu-slant.png",
     "alt": "The owner of this website.",
     "title": "Lex Wu",
     "description": "A musician that does a few too many side quests",
@@ -50,18 +50,9 @@
   ],
   "featured": [
     {
-      "network": "Pod",
-      "url": "https://open.spotify.com/show/1Xmaek9r2UmdnwTZZRCFVG?si=b5baa713957a4c81",
-      "title": "Here's a Minute - a new podcast with Vian Vera, streaming wherever",
-      "textColor": "#FFF",
-      "backgroundImage": "/minute.png",
-      "backgroundColor": null,
-      "borderRadius": ".75rem"
-    },
-    {
       "network": "Music",
       "url": "https://push.fm/fl/nvb09mtk",
-      "title": "And the full soundtrack, out now!",
+      "title": "The full soundtrack to Here's a Minute, out now",
       "textColor": "#FFF",
       "backgroundImage": "/hamradio-album.jpg",
       "backgroundColor": null,
