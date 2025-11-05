@@ -2,35 +2,30 @@
   "html": {
     "lang": "en",
     "title": "Lex Wu",
-    "description": "A musician that does a few too many side quests",
+    "description": "The most average person I've ever met",
     "favicon": "/lwu-slant.png"
   },
   "background": {
-    "firstColor": "#432371",
-    "secondColor": "#faae7b"
+    "firstColor": "oklch(29.3% 0.136 325.661)",
+    "secondColor": "oklch(12.9% 0.042 264.695)"
   },
   "header": {
     "image": "/lwu-slant.png",
     "alt": "The owner of this website.",
     "title": "Lex Wu",
-    "description": "A musician that does a few too many side quests",
+    "description": "The most average person I've ever met",
     "textColor": "white"
   },
   "socials": [
     {
-      "network": "GitHub",
+      "network": "YouTube",
       "username": "lwu877",
-      "url": "https://github.com/lwu877"
+      "url": "https://youtube.com/@lwu877"
     },
     {
       "network": "TikTok",
       "username": "lwu877",
       "url": "https://tiktok.com/@lwu877"
-    },
-    {
-      "network": "Twitch",
-      "username": "lwu877",
-      "url": "https://twitch.tv/lwu877"
     },
     {
       "network": "Instagram",
@@ -41,20 +36,24 @@
       "network": "Mail",
       "username": "lex",
       "url": "mailto:lex@lexwu.com"
-    },
-    {
-      "network": "Link",
-      "username": "Website",
-      "url": "https://lexwu.com"
     }
   ],
   "featured": [
     {
-      "network": "Music",
+      "network": "Blog",
       "url": "https://push.fm/fl/nvb09mtk",
-      "title": "The full soundtrack to Here's a Minute, out now",
+      "title": "NEW! The Calcyx - a bit of humor on current events",
       "textColor": "#FFF",
-      "backgroundImage": "/hamradio-album.jpg",
+      "backgroundImage": "https://images.unsplash.com/photo-1546422904-90eab23c3d7e?auto=format&fit=crop&q=50&w=1080",
+      "backgroundColor": null,
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Music",
+      "url": "https://lwumusic.com",
+      "title": "Time releases November 24th - presave coming soon",
+      "textColor": "#FFF",
+      "backgroundImage": "/time.png",
       "backgroundColor": null,
       "borderRadius": ".75rem"
     }
@@ -62,18 +61,10 @@
   "buttons": [
     {
       "network": "Music",
-      "url": "https://push.fm/fl/lexwu",
-      "title": "I've got music - and you might like it?",
+      "url": "https://lwumusic.com",
+      "title": "lwumusic.com",
       "textColor": "#FFF",
-      "backgroundColor": "#000",
-      "borderRadius": ".75rem"
-    },
-    {
-      "network": "Link",
-      "url": "https://lexwu.com/",
-      "title": "I also just redid my website",
-      "textColor": "#FFF",
-      "backgroundColor": "#000",
+      "backgroundColor": "oklch(28.3% 0.141 291.089)",
       "borderRadius": ".75rem"
     },
     {
@@ -87,9 +78,41 @@
     {
       "network": "Blog",
       "url": "https://blog.lexwu.com",
-      "title": "A blogger who doesn't blog that often",
+      "title": "Composer's notes, life updates, and more!",
       "textColor": "#FFF",
-      "backgroundColor": "#000",
+      "backgroundColor": "oklch(26.6% 0.065 152.934)",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
+      "url": "https://lexwu.com",
+      "title": "lexwu.com",
+      "textColor": "#FFF",
+      "backgroundColor": "oklch(28.2% 0.091 267.935)",
+      "borderRadius": ".75rem"
+    },
+      {
+      "network": "Music",
+      "url": "https://lwumusic.com/chords",
+      "title": "Chord Sheets (wip)",
+      "textColor": "#FFF",
+      "backgroundColor": "oklch(28.3% 0.141 291.089)",
+      "borderRadius": ".75rem"
+    },
+     {
+      "network": "Music",
+      "url": "https://lwumusic.com/lyrics",
+      "title": "Lyrics",
+      "textColor": "#FFF",
+      "backgroundColor": "oklch(28.3% 0.141 291.089)",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Link",
+      "url": "https://steamcommunity.com/id/lwu877/myworkshopfiles/",
+      "title": "Steam Workshop (custom levels by me)",
+      "textColor": "#FFF",
+      "backgroundColor": "oklch(28.2% 0.091 267.935)",
       "borderRadius": ".75rem"
     }
   ],
