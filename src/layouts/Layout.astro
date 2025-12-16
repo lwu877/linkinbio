@@ -8,6 +8,20 @@ const { firstColor, secondColor } = background;
 <!doctype html>
 <html lang={`${lang}`}>
   <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.1.0/dist/cookieconsent.css">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-58RGWHLEBV" type="text/plain"
+    data-category="analytics"
+    data-service="Google Analytics"></script>
+    <script type="text/plain"
+    data-category="analytics"
+    data-service="Google Analytics">
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-58RGWHLEBV');
+    </script>
     <meta charset="UTF-8" />
     <meta name="description" content={`${description}`} />
     <meta name="viewport" content="width=device-width" />
@@ -17,6 +31,7 @@ const { firstColor, secondColor } = background;
     <title>{title}</title>
   </head>
   <body>
+    <script type="module" src="cookieconsent-config.js"></script>
     <slot />
   </body>
 </html>

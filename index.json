@@ -10,7 +10,7 @@
     "secondColor": "oklch(12.9% 0.042 264.695)"
   },
   "header": {
-    "image": "/lwu-slant.png",
+    "image": "/outside-pfp.jpg",
     "alt": "The owner of this website.",
     "title": "Lex Wu",
     "description": "The most average person I've ever met",
@@ -32,6 +32,11 @@
       "username": "lwu877",
       "url": "https://www.instagram.com/lwu877"
     },
+      {
+      "network": "Bluesky",
+      "username": "lwu877",
+      "url": "https://bsky.app/profile/lexwu.com"
+    },
     {
       "network": "Mail",
       "username": "lex",
@@ -40,20 +45,11 @@
   ],
   "featured": [
     {
-      "network": "Blog",
-      "url": "https://push.fm/fl/nvb09mtk",
-      "title": "NEW! The Calcyx - a bit of humor on current events",
-      "textColor": "#FFF",
-      "backgroundImage": "https://images.unsplash.com/photo-1546422904-90eab23c3d7e?auto=format&fit=crop&q=50&w=1080",
-      "backgroundColor": null,
-      "borderRadius": ".75rem"
-    },
-    {
       "network": "Music",
-      "url": "https://lwumusic.com",
-      "title": "Time releases November 24th - presave coming soon",
+      "url": "https://lwumusic.com/listen",
+      "title": "The Pirate and the Fiddle, out soon",
       "textColor": "#FFF",
-      "backgroundImage": "/time.png",
+      "backgroundImage": "/pirate&fiddle.jpg",
       "backgroundColor": null,
       "borderRadius": ".75rem"
     }
@@ -77,7 +73,7 @@
     },
     {
       "network": "Blog",
-      "url": "https://blog.lexwu.com",
+      "url": "https://lwu877.substack.com",
       "title": "Composer's notes, life updates, and more!",
       "textColor": "#FFF",
       "backgroundColor": "oklch(26.6% 0.065 152.934)",
@@ -89,6 +85,14 @@
       "title": "lexwu.com",
       "textColor": "#FFF",
       "backgroundColor": "oklch(28.2% 0.091 267.935)",
+      "borderRadius": ".75rem"
+    },
+    {
+      "network": "Blog",
+      "url": "https://calcyx.substack.com",
+      "title": "The Calcyx",
+      "textColor": "#FFF",
+      "backgroundColor": "oklch(28.3% 0.141 291.089)",
       "borderRadius": ".75rem"
     },
       {
